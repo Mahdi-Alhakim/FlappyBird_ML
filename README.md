@@ -56,3 +56,8 @@ _If there are problems with installing tkinter:_
 ``` bash
 > python3 Flappy_Bird.py
 ```
+
+## How to Play:
+
+* Click / Space / Up-Arrow to jump
+* Don't Hit the pipes!
