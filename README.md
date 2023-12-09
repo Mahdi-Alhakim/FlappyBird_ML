@@ -59,5 +59,5 @@ _If there are problems with installing tkinter:_
 
 ## How to Play:
 
-* Click / Space / Up-Arrow to jump
-* Don't Hit the pipes!
+#### _To jump, Click or hit Space / Up-Arrow_
+#### _Don't hit the pipes!_
